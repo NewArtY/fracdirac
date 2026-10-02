@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# The generated data, figures and run logs ARE part of the archive: keep them tracked
+# even if a user-level ignore file excludes logs, PDFs or images.
+!data/
+!data/*.csv
+!data/*.json
+!output/
+!output/*.pdf
+!output/*.png
+!output/*.log

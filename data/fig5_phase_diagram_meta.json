@@ -1,0 +1,37 @@
+{
+  "s_p": 3.0,
+  "g": 1.5,
+  "T1": 40.0,
+  "T2": 20.0,
+  "tau_m": 1.0,
+  "kappa": 0.0,
+  "phi_cep": 0.0,
+  "x0": -15.0,
+  "x_obs": 16.0,
+  "N": 6200,
+  "max_bloch_norm": 1.0000000000000302,
+  "richardson": true,
+  "max_error_estimate_before_extrapolation": 0.0073672858709267946,
+  "N1": {
+    "max_rel": 0.8616120129160535,
+    "at_alpha": 0.7,
+    "at_theta": 0.05,
+    "n_cov_there": 0.0005099056667285754,
+    "max_abs": 0.1736201581015404,
+    "abs_at_alpha": 0.7625,
+    "abs_at_theta": 1.7000000000000002,
+    "max_rel_where_n_cov_above_0p05": 0.8567405231153022,
+    "max_abs_at_alpha_1": 0.0
+  },
+  "N2": {
+    "max_rel": 0.6618730286231866,
+    "at_alpha": 0.95,
+    "at_theta": 0.2,
+    "n_cov_there": 0.0038182634749315083,
+    "max_abs": 0.09029804558288201,
+    "abs_at_alpha": 0.7,
+    "abs_at_theta": 2.4,
+    "max_rel_where_n_cov_above_0p05": 0.6115588651076039,
+    "max_abs_at_alpha_1": 0.0
+  }
+}

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archive and the accompanying article."
+title: "fracdirac: code and data for 'Memory-induced geometric coupling in the nonlinear fractional dynamics of laser-driven massive Dirac fermions'"
+abstract: "Solver library (Caputo time stepping with L1 and second-order BDF2 convolution quadrature), verification suite, analysis and figure scripts, and the generated data and figures for the article 'Memory-induced geometric coupling in the nonlinear fractional dynamics of laser-driven massive Dirac fermions'."
+type: software
+version: 1.0.0
+date-released: 2026-10-02
+license: MIT
+authors:
+  - family-names: Akintsov
+    given-names: Nikolai S.
+    orcid: "https://orcid.org/0000-0002-1040-1292"
+    affiliation: "School of Artificial Intelligence and Computer Science, Nantong University, Nantong, China"
+  - family-names: Nevecheria
+    given-names: Artem P.
+    orcid: "https://orcid.org/0000-0001-6736-4691"
+    affiliation: "Department of Mathematical and Computer Methods, Kuban State University, Krasnodar, Russia"
+  - family-names: Andreev
+    given-names: Stepan N.
+    orcid: "https://orcid.org/0000-0003-3588-2894"
+    affiliation: "Joint-Stock Company 'Center for Research and Development', Moscow, Russia"
+  - family-names: Qin
+    given-names: Qing-Hua
+    orcid: "https://orcid.org/0000-0003-0948-784X"
+    affiliation: "Institute of Advanced Interdisciplinary Technology, Shenzhen MSU-BIT University, Shenzhen, China"
+keywords:
+  - Caputo fractional derivative
+  - semiconductor Bloch equations
+  - massive Dirac fermions
+  - convolution quadrature
+  - non-Markovian dynamics

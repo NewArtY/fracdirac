@@ -1,0 +1,23 @@
+{
+  "s_p": 3.0,
+  "T1": 40.0,
+  "T2": 20.0,
+  "tau_m": 1.0,
+  "a_D": 2.0,
+  "kappa": 0.0,
+  "phi_cep": 0.0,
+  "x0": -15.0,
+  "x_obs": 16.0,
+  "alpha_gap_scan": 0.9,
+  "T2_eff_surrogate": 0.9186928228391479,
+  "N_gap_scan": 24800,
+  "gap_ratio_full_model": 20.0,
+  "max_abs_change_N_vs_N_over_2": {
+    "cov": 3.3358059272625695e-06,
+    "N1": 3.629443774466612e-06,
+    "N2": 6.251537333024082e-06
+  },
+  "first_order_coefficient": 2.5335314891686216,
+  "first_order_coefficient_half_grid": 2.533531252226657,
+  "n_adiabatic_scalar_alpha0p9": 0.15416800560106847
+}

@@ -1,0 +1,21 @@
+# Line endings: text files are stored with LF in the repository (and therefore in the GitHub
+# release archive that Zenodo ingests) and checked out with LF on every platform.
+* text=auto eol=lf
+
+*.py    text eol=lf diff=python
+*.md    text eol=lf
+*.txt   text eol=lf
+*.cff   text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+*.log   text eol=lf
+LICENSE text eol=lf
+
+# Binary files: never converted, never diffed as text.
+*.pdf binary
+*.png binary
+
+# Generated data, figures and logs: collapsed in GitHub diffs and left out of the language
+# statistics. They stay in the release archive (no export-ignore is used anywhere).
+data/**   linguist-generated=true
+output/** linguist-generated=true
