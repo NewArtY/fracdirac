@@ -1,5 +1,7 @@
 # fracdirac — code and data for "Memory-Induced Geometric Coupling in the Nonlinear Fractional Dynamics of Laser-Driven Massive Dirac Fermions"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111002.svg)](https://doi.org/10.5281/zenodo.23111002)
+
 Authors of the manuscript: N. S. Akintsov, A. P. Nevecheria, S. N. Andreev, Q.-H. Qin.
 
 This archive contains everything needed to regenerate every number, table and figure of the
@@ -58,7 +60,7 @@ SciPy 1.18.1, pandas 3.0.5, Matplotlib 3.11.1, mpmath 1.3.0).
 
 ## Usage
 
-    python run_all.py               # verification, tables and all figures (about 1.5 hours on a laptop, < 1 GB RAM)
+    python run_all.py               # verification, tables and all figures (about 45 minutes on a laptop, < 1 GB RAM)
     python tests/verification.py    # verification suite only
     python figures/fig4_models.py   # one figure: compute + plot
     python figures/fig4_models.py --plot-only   # redraw from the stored CSV
@@ -78,9 +80,10 @@ Richardson-extrapolated in the time step (N and N/2 steps); error estimates are 
 
 ## Citation
 
-Please cite the archived release (Zenodo; the DOI is given in the article) and the article
-itself. Citation metadata are in `CITATION.cff`; the Zenodo record is described by
-`.zenodo.json`.
+Please cite the archived release and the article itself. Version 1.0.0, used in the article,
+is archived on Zenodo: https://doi.org/10.5281/zenodo.23111003 (all versions:
+https://doi.org/10.5281/zenodo.23111002). Citation metadata are in `CITATION.cff`; the Zenodo
+record is described by `.zenodo.json`.
 
 ## Licence
 
