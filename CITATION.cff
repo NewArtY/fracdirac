@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the archive and the accompanying article."
-title: "fracdirac: code and data for 'Memory-induced geometric coupling in the nonlinear fractional dynamics of laser-driven massive Dirac fermions'"
-abstract: "Solver library (Caputo time stepping with L1 and second-order BDF2 convolution quadrature), verification suite, analysis and figure scripts, and the generated data and figures for the article 'Memory-induced geometric coupling in the nonlinear fractional dynamics of laser-driven massive Dirac fermions'."
+title: "fracdirac: code and data for 'Memory-induced geometric coupling in the fractional dynamics of laser-driven massive Dirac fermions'"
+abstract: "Solver library (Caputo time stepping with L1 and second-order BDF2 convolution quadrature), verification suite, analysis and figure scripts, and the generated data and figures for the article 'Memory-induced geometric coupling in the fractional dynamics of laser-driven massive Dirac fermions'."
 type: software
 version: 1.0.0
 doi: 10.5281/zenodo.23111003

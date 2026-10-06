@@ -1,4 +1,4 @@
-# fracdirac — code and data for "Memory-Induced Geometric Coupling in the Nonlinear Fractional Dynamics of Laser-Driven Massive Dirac Fermions"
+# fracdirac — code and data for "Memory-Induced Geometric Coupling in the Fractional Dynamics of Laser-Driven Massive Dirac Fermions"
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111002.svg)](https://doi.org/10.5281/zenodo.23111002)
 
