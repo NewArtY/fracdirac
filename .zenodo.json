@@ -9,7 +9,7 @@
   "creators": [
     {"name": "Akintsov, Nikolai S.", "orcid": "0000-0002-1040-1292", "affiliation": "School of Artificial Intelligence and Computer Science, Nantong University, Nantong, China"},
     {"name": "Nevecheria, Artem P.", "orcid": "0000-0001-6736-4691", "affiliation": "Department of Mathematical and Computer Methods, Kuban State University, Krasnodar, Russia"},
-    {"name": "Andreev, Stepan N.", "orcid": "0000-0003-3588-2894", "affiliation": "Joint-Stock Company 'Center for Research and Development', Moscow, Russia"},
+    {"name": "Andreev, Stepan N.", "orcid": "0000-0003-3588-2894", "affiliation": "Moscow Center for Advanced Studies, Moscow, Russia"},
     {"name": "Qin, Qing-Hua", "orcid": "0000-0003-0948-784X", "affiliation": "Institute of Advanced Interdisciplinary Technology, Shenzhen MSU-BIT University, Shenzhen, China"}
   ],
   "keywords": ["Caputo fractional derivative", "semiconductor Bloch equations", "massive Dirac fermions", "convolution quadrature", "non-Markovian dynamics"],
